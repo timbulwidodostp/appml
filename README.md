@@ -1,6 +1,8 @@
 # appml
 Asymmetric Poisson Pseudo Maximum Likelihood (APPML) Use appml (APPMLHDFE) With (In) R Software
 
+https://www.youtube.com/watch?v=Y2JOl04zVXE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
